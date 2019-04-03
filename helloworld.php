@@ -7,4 +7,7 @@
 echo data('Y-m-d H:i:s').PHP_EOL;
 echo "hello wolrd".PHP_EOL;
 
+
+echo "my age is age , so ";
+
 ?>
